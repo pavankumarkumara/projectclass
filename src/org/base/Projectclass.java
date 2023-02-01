@@ -10,6 +10,7 @@ public static void main(String[] args) {
 
 	boolean empty = s.isEmpty();
 	System.out.println(empty);
-
+ int length = s.length();
+ System.out.println(length);
 }
 }
